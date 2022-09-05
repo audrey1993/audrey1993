@@ -6,7 +6,7 @@
 ### <div align="center">I'm Audrey, a Junior Data Scientist 👨‍💻  </div>  
   
 
-I am an accomplished dual professional with skills in data science and healthcare, with a growth mindset and passion for utilizing technology. I enjoy teamwork, tackling challenges, finding solutions, adding value, and I take ownership and responsibility for products.
+I am an aspiring data scientist and dual professional in healthcare who wishes to solve problems in the world by means of data!
   
 
 <br/>  

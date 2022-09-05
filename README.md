@@ -6,16 +6,7 @@
 ### <div align="center">I'm Audrey, a Junior Data Scientist 👨‍💻  </div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+I am an accomplished dual professional with skills in data science and healthcare, with a growth mindset and passion for utilizing technology. I enjoy teamwork, tackling challenges, finding solutions, adding value, and I take ownership and responsibility for products.
   
 
 <br/>  
